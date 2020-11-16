@@ -1,0 +1,11 @@
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\bin\Debug\Exercise4.xml
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.vbprojAssemblyReference.cache
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.Exercise4.resources
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.Resources.resources
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.vbproj.GenerateResource.cache
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.vbproj.CoreCompileInputs.cache
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.exe
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.xml
+C:\Users\cmcgowan\Source\Repos\PDM-API-Exercise4-Find-Cards-where-a-variable-is-used\Exercise4\obj\x86\Debug\Exercise4.pdb

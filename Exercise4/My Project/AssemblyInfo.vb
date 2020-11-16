@@ -13,9 +13,9 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyCompany("SolidWorks R&D Limited")> 
 <Assembly: AssemblyProduct("Exercise4")> 
 <Assembly: AssemblyCopyright("Copyright © SolidWorks R&D Limited 2015")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("82aac4a2-8429-4ba6-81a2-9e80fde44616")> 
